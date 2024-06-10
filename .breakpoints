@@ -1,0 +1,240 @@
+{
+  "files": {
+    "commands/info.js": [
+      {
+        "id": "44b3a2ba-774d-4589-9cfc-762e5c856229",
+        "line": 52,
+        "version": 3,
+        "index": 2999
+      }
+    ],
+    "mirai.js": [
+      {
+        "id": "d737a042-36a6-49ba-a963-ad4cf1a3e995",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/12 cung": [
+      {
+        "id": "4c56d2d1-a877-4111-85ba-a18b156aec72",
+        "line": 29,
+        "version": 0,
+        "index": 1352
+      }
+    ],
+    "modules/commands/Botcac.js": [
+      {
+        "id": "3f51691f-876c-4be5-b819-97916e154c1b",
+        "line": 10,
+        "version": 1,
+        "index": 214
+      }
+    ],
+    "modules/commands/ayaka.js": [
+      {
+        "id": "f76f835e-bfe3-4af1-9ff3-bb324f1c7035",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/blackpink.js": [
+      {
+        "id": "6d3903a2-2b9e-40f3-bc2e-e02f2b15faba",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/chuilientuc.js": [
+      {
+        "id": "ddb7a1c7-90a3-4963-91a4-21c6cf99cb8c",
+        "line": 54,
+        "version": 1,
+        "index": 3588
+      }
+    ],
+    "modules/commands/ganyu.js": [
+      {
+        "id": "855a70c0-7d67-4788-bd8c-246261f33adc",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/howtouse.js": [
+      {
+        "id": "6c602582-9ad9-4362-af4e-59dc4f4c0557",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/idnv.js": [
+      {
+        "id": "4a593738-5e3d-4295-9f41-8d08ed2d619e",
+        "line": 1013,
+        "version": 134,
+        "index": 9301
+      },
+      {
+        "id": "e8559042-1a41-4384-917b-71d56d21223a",
+        "line": 1018,
+        "version": 133,
+        "index": 9345
+      },
+      {
+        "id": "728b59c1-08f9-4ae7-8daf-6cfda1ee5b0f",
+        "line": 1023,
+        "version": 132,
+        "index": 9396
+      },
+      {
+        "id": "c6d18711-95e4-403b-94d5-1b179a706aff",
+        "line": 1028,
+        "version": 131,
+        "index": 9440
+      },
+      {
+        "id": "11a4208b-529f-4b22-94e5-056bba42c512",
+        "line": 1033,
+        "version": 130,
+        "index": 9484
+      },
+      {
+        "id": "f688f181-f5de-4171-be44-442d37761a0c",
+        "line": 1037,
+        "version": 128,
+        "index": 9694
+      },
+      {
+        "id": "18bd4f2c-0412-40c6-94f4-fd2d3d5b2d82",
+        "line": 1037,
+        "version": 128,
+        "index": 9615
+      },
+      {
+        "id": "7145c2d8-cff6-4a6c-9ada-a49f6ac89e23",
+        "line": 1038,
+        "version": 129,
+        "index": 9529
+      },
+      {
+        "id": "c3de3d8a-47f0-4a6c-a796-595eb5a819b8",
+        "line": 1039,
+        "version": 128,
+        "index": 9734
+      },
+      {
+        "id": "a07ea91f-bd63-4706-a78a-d8c4239d7863",
+        "line": 1043,
+        "version": 128,
+        "index": 9573
+      },
+      {
+        "id": "7fb66d31-cd03-4801-a9b9-9b31ccee3fce",
+        "line": 1047,
+        "version": 128,
+        "index": 9774
+      },
+      {
+        "id": "117238fd-5a2c-40ce-85aa-1189616e555c",
+        "line": 1047,
+        "version": 128,
+        "index": 9657
+      },
+      {
+        "id": "3bcee6e7-ee08-4beb-8a5c-8ab9138c24d2",
+        "line": 1047,
+        "version": 128,
+        "index": 9889
+      },
+      {
+        "id": "347eb1be-cf6c-4186-8cb3-a4bdffb7bf8d",
+        "line": 1047,
+        "version": 128,
+        "index": 9812
+      },
+      {
+        "id": "ab5611dd-5905-424e-8015-4de14ed70aa3",
+        "line": 1047,
+        "version": 128,
+        "index": 9851
+      },
+      {
+        "id": "0994197a-b0e7-4458-994a-46fcc1bcc6ba",
+        "line": 1047,
+        "version": 128,
+        "index": 9889
+      },
+      {
+        "id": "62e487d3-7304-42f2-be21-a3619e460282",
+        "line": 1051,
+        "version": 128,
+        "index": 9970
+      },
+      {
+        "id": "d5710f86-eaa8-4693-90a5-95ce8dcd15ef",
+        "line": 1053,
+        "version": 128,
+        "index": 10011
+      },
+      {
+        "id": "92f476f2-74e8-4706-b088-b8fd96db6a82",
+        "line": 1055,
+        "version": 128,
+        "index": 10051
+      },
+      {
+        "id": "74f53df2-affb-4910-aa5f-893b3d7af933",
+        "line": 1057,
+        "version": 128,
+        "index": 10096
+      },
+      {
+        "id": "21727f31-c82b-4829-ae1c-99e1eb82437e",
+        "line": 1061,
+        "version": 128,
+        "index": 10179
+      },
+      {
+        "id": "215adf23-d39b-475a-9db5-367c5c35e60f",
+        "line": 1065,
+        "version": 128,
+        "index": 10260
+      },
+      {
+        "id": "70c86768-110e-4061-99bb-806735eb6417",
+        "line": 1067,
+        "version": 128,
+        "index": 10304
+      }
+    ],
+    "modules/commands/namtay.js": [
+      {
+        "id": "e820a6a2-cb3e-4ae8-8d83-1dc5d2c84a66",
+        "line": 78,
+        "version": 1,
+        "index": 2815
+      }
+    ],
+    "modules/commands/solo.js": [
+      {
+        "id": "6da65300-05ef-46b1-b6fa-df67d9e00761",
+        "line": 22,
+        "version": 1,
+        "index": 540
+      }
+    ],
+    "modules/commands/thinhtag.js": [
+      {
+        "id": "8f7a4a5f-2939-4775-89ee-288f7219e557",
+        "line": 239,
+        "version": 1,
+        "index": 10337
+      }
+    ]
+  }
+}
